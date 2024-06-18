@@ -1,4 +1,4 @@
-site_name: My Test Docs
+site_name: My awesome test docs
 site_url: https://jomaway.github.io/mkdocs-ci-test
 theme:
   name: material
